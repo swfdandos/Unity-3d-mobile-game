@@ -1,0 +1,36 @@
+asdadsCan barı yapıldı. düzenleme yapılacak
+otomatik saldırma zombi yapıldı.
+Karaktere can değeri verildi.
+
+
+
+
+Yapılacaklar :
+zombi animasyonları hızlandırılacak
+2-3 tane zombi eklenecek 
+Animasyonları eklenecek 
+Ayni işlemler onlarada yapılacak.
+mermi ve can  düşürme rastgele olacak şekilde sonrasında ekleme 
+Arayüz menüsü yapılacak 
+
+
+
+
+yeni yapılanlar 04.05.23 13.03 
+1231231231231
+
+
+2. haritanın çitleri yapıldı.
+
+ateş silahı
+otomatik nişan drone
+varil patlatma
+
+
+main menu
+sağ üstte mute unmute sol üstte repeat
+play
+settings
+quit
+
+gerilim müziği
